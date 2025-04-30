@@ -1,5 +1,5 @@
 import streamlit as st
-from profiles import load_voters, generate_reaction
+from src.profiles import load_voters, generate_reaction
 import pandas as pd
 import random
 
