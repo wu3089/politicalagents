@@ -66,6 +66,4 @@ This simple Streamlit app allows you to input a political speech or tweet and se
     *   Use the sidebar to filter voters by Party ID or Ideology if desired.
     *   Paste your political speech or text into the main text area.
     *   Click the "Regenerate Reactions" button.
-    *   The app will display profiles and simulated reactions for a random sample of (up to 3) voters matching your filters.
-
-## Project Structure
+    *   The app will display profiles and simulated reactions for a random sample of voters matching your filters.
