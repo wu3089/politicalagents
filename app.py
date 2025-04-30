@@ -90,12 +90,40 @@ st.markdown("""
         .subtitle { font-size: 1.2em; color: #555; margin-bottom: 1.5em; }
 
         /* --- Voter Card Styles --- */
-        .voter-card { /* ... */ }
-        .voter-card:hover { /* ... */ }
-        .voter-info { /* ... */ }
-        .voter-name { /* ... */ }
-        .voter-details { /* ... */ }
-        .reaction-header { /* ... */ }
+        .voter-card {
+            border: 1px solid #e0e0e0;
+            padding: 1.2em;
+            border-radius: 8px;
+            background-color: #ffffff;
+            margin-bottom: 1.5em;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+            line-height: 1.6;
+        }
+        .voter-card:hover {
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            border-color: #cccccc;
+        }
+        .voter-info {
+            font-size: 0.95em;
+            color: #333;
+            margin-bottom: 0.8em;
+        }
+        .voter-name {
+            font-weight: 600;
+            font-size: 1.1em;
+            color: #000;
+        }
+        .voter-details {
+            font-size: 0.85em;
+            color: #666;
+            margin-bottom: 1em;
+        }
+        .reaction-header {
+            font-weight: 600;
+            font-size: 1em;
+            color: #111;
+            margin-bottom: 0.3em;
+        }
 
         /* --- Dot Visualization Styles --- */
         .viz-container {
@@ -131,7 +159,7 @@ st.markdown("""
 
 # --- Title ---
 st.markdown('<div class="title">Political Agents</div>', unsafe_allow_html=True)
-st.markdown('<div class="subtitle">Simulating voter reactions based on survey profiles. Enter text below.</div>', unsafe_allow_html=True)
+st.markdown('<div class="subtitle">Fictional voter reactions based on survey profiles. Enter text below.</div>', unsafe_allow_html=True)
 
 # --- Load Data ---
 # ... (rest of the code is unchanged) ...
