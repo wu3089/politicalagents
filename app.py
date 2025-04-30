@@ -30,7 +30,7 @@ st.markdown("""
 
 # --- Title ---
 st.markdown('<div class="title">Political Agents</div>', unsafe_allow_html=True)
-st.markdown('<div class="subtitle">This app uses synthetic voter profiles—based on CESS-style survey data—to generate reactions.</div>', unsafe_allow_html=True)
+st.markdown('<div class="subtitle">This app uses synthetic voter profiles based on CESS-style survey data to generate reactions.</div>', unsafe_allow_html=True)
 
 # --- Load Data ---
 voters_df = load_voters()
@@ -50,7 +50,7 @@ if selected_ideology != "All":
 
 # --- Input Speech ---
 speech = st.text_area("Paste your content below:", height=200)
-generate = st.button("Regenerate Reactions")
+generate = st.button("Generate Reactions")
 
 # --- Show Reactions (default 3 voters)
 if speech and generate:
