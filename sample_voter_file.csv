@@ -1,30 +1,30 @@
 age_group,gender,race,education,income,party_id,ideology,voted_2020,ideology_5pt,education_expanded,race_expanded,income_change_2024,vote_intention_2024,name,age,congressional_district,abortion_access,immigration_daca,gun_background_checks,epa_regulations,student_loan_forgiveness,political_typology
 30-44,Male,White,No HS,<30k,Independent,Liberal,Trump,Liberal,HS Grad,White,Decreased,"Yes, definitely",Reagan A.,36,TX-01,Support,Support,Support,Oppose,Oppose,Libertarian Leaning
-65+,Female,White,Some College,100k+,Republican,Liberal,Biden,Very liberal,2-year,Other/Mixed,Increased,No,Jamie R.,80,IL-01,Support,Support,Support,Support,Oppose,Left-Liberal
+65+,Female,White,Some College,100k+,Democrat,Liberal,Biden,Very liberal,2-year,Other/Mixed,Increased,No,Jamie R.,80,IL-01,Support,Support,Support,Support,Oppose,Left-Liberal
 45-64,Male,White,Some College,30-60k,Democrat,Liberal,Biden,Liberal,Postgrad,Hispanic,Increased,"Yes, definitely",Blake G.,24,MA-01,Support,Support,Support,Support,Support,Populist Right
 45-64,Female,Hispanic,College Grad,100k+,Independent,Very Liberal,Biden,Moderate,4-year,Asian,Same,"Yes, definitely",Morgan J.,66,MN-09,Oppose,Support,Support,Support,Support,Populist Right
 18-29,Female,White,College Grad,30-60k,Independent,Liberal,Biden,Moderate,4-year,Other/Mixed,Same,Already voted,Emerson T.,83,KS-13,Oppose,Support,Support,Support,Support,Left-Liberal
-18-29,Male,White,Postgrad,100k+,Democrat,Moderate,Trump,Very conservative,4-year,White,Decreased,Plan to vote early,Corey D.,46,SC-07,Support,Support,Support,Support,Oppose,Left-Liberal
+18-29,Male,White,Postgrad,100k+,Republican,Moderate,Trump,Very conservative,4-year,White,Decreased,Plan to vote early,Corey D.,46,SC-07,Support,Support,Support,Support,Oppose,Left-Liberal
 18-29,Male,White,Some College,30-60k,Other,Liberal,Biden,Conservative,4-year,White,Same,Already voted,Taylor A.,28,HI-02,Oppose,Support,Support,Support,Oppose,Left-Liberal
 65+,Female,Black,HS Grad,<30k,Independent,Moderate,Trump,Moderate,4-year,Black,Same,Already voted,Jamie J.,84,OR-03,Oppose,Support,Support,Support,Support,Left-Liberal
 45-64,Male,White,College Grad,100k+,Other,Moderate,Biden,Liberal,HS Grad,Black,Same,"Yes, definitely",Reagan R.,53,MT-15,Support,Support,Support,Support,Support,Populist Right
 45-64,Male,White,HS Grad,<30k,Independent,Conservative,Trump,Moderate,Some College,White,Decreased,Already voted,Skylar J.,18,LA-08,Oppose,Oppose,Support,Support,Support,Left-Liberal
-18-29,Male,White,Some College,30-60k,Republican,Very Liberal,Trump,Moderate,HS Grad,Black,Same,"Yes, definitely",Alex L.,20,ND-15,Support,Oppose,Support,Support,Oppose,Populist Right
+18-29,Male,White,Some College,30-60k,Democrat,Very Liberal,Trump,Moderate,HS Grad,Black,Same,"Yes, definitely",Alex L.,20,ND-15,Support,Oppose,Support,Support,Oppose,Populist Right
 65+,Male,Black,HS Grad,100k+,Republican,Conservative,Trump,Liberal,Postgrad,White,Same,No,Jamie J.,59,SC-07,Support,Support,Support,Support,Oppose,Left-Liberal
 65+,Female,White,No HS,100k+,Other,Conservative,Biden,Moderate,Postgrad,White,Increased,"Yes, definitely",Casey R.,40,ME-08,Support,Oppose,Support,Oppose,Support,Center-Left Moderate
-30-44,Female,White,Postgrad,60-100k,Independent,Very Liberal,Biden,Moderate,HS Grad,White,Decreased,Already voted,Shawn A.,76,MO-14,Support,Support,Support,Support,Support,Left-Liberal
+30-44,Female,White,Postgrad,60-100k,Democrat,Very Liberal,Biden,Moderate,HS Grad,White,Decreased,Already voted,Shawn A.,76,MO-14,Support,Support,Support,Support,Support,Left-Liberal
 18-29,Female,Black,College Grad,60-100k,Democrat,Conservative,Biden,Moderate,4-year,White,Same,"Yes, definitely",Skylar J.,84,TN-10,Support,Support,Support,Support,Support,Libertarian Leaning
 18-29,Female,White,College Grad,30-60k,Democrat,Very Conservative,Trump,Moderate,Postgrad,White,Increased,Probably,Alex G.,83,WI-04,Oppose,Support,Support,Oppose,Oppose,Center-Left Moderate
-30-44,Female,White,Some College,30-60k,Republican,Very Liberal,Trump,Liberal,HS Grad,White,Increased,"Yes, definitely",Hunter A.,46,MA-07,Support,Support,Oppose,Support,Support,Libertarian Leaning
+30-44,Female,White,Some College,30-60k,Democrat,Very Liberal,Biden,Liberal,HS Grad,White,Increased,"Yes, definitely",Hunter A.,46,MA-07,Support,Support,Oppose,Support,Support,Libertarian Leaning
 45-64,Male,Black,HS Grad,30-60k,Independent,Liberal,Trump,Very conservative,2-year,Hispanic,Same,Already voted,Jordan G.,20,MN-07,Support,Oppose,Support,Oppose,Oppose,Left-Liberal
 30-44,Female,White,HS Grad,60-100k,Other,Conservative,Biden,Conservative,Postgrad,White,Same,"Yes, definitely",Logan D.,49,TX-03,Support,Support,Support,Oppose,Oppose,Center-Left Moderate
 30-44,Female,Hispanic,HS Grad,60-100k,Democrat,Conservative,Trump,Liberal,No HS,White,Same,"Yes, definitely",Cameron B.,67,VA-05,Oppose,Oppose,Support,Support,Support,Center-Left Moderate
-45-64,Female,White,Some College,100k+,Republican,Liberal,Trump,Very conservative,4-year,Hispanic,Decreased,"Yes, definitely",Corey D.,79,NJ-18,Support,Support,Support,Support,Support,Working-Class Independent
+45-64,Female,White,Some College,100k+,Republican,Liberal,Trump,Moderate,4-year,Hispanic,Decreased,"Yes, definitely",Corey D.,79,NJ-18,Support,Support,Support,Support,Support,Working-Class Independent
 18-29,Female,White,College Grad,100k+,Republican,Liberal,Biden,Moderate,HS Grad,Other/Mixed,Increased,"Yes, definitely",Taylor D.,18,NH-02,Support,Oppose,Support,Support,Support,Libertarian Leaning
 30-44,Male,White,College Grad,<30k,Other,Moderate,Biden,Very conservative,Postgrad,Hispanic,Same,Plan to vote early,Blake D.,66,MA-01,Support,Support,Support,Support,Oppose,Working-Class Independent
 30-44,Male,White,HS Grad,30-60k,Independent,Moderate,Trump,Conservative,Postgrad,Black,Decreased,"Yes, definitely",Jesse L.,24,PA-12,Support,Support,Oppose,Support,Oppose,Populist Right
 30-44,Male,White,Postgrad,<30k,Independent,Moderate,Trump,Moderate,Postgrad,White,Same,Undecided,Logan B.,80,NV-14,Oppose,Support,Support,Oppose,Oppose,Center-Left Moderate
-65+,Male,White,College Grad,60-100k,Republican,Moderate,Trump,Very liberal,Some College,White,Same,"Yes, definitely",Cameron G.,38,WV-09,Oppose,Support,Support,Support,Support,Working-Class Independent
+65+,Male,White,College Grad,60-100k,Republican,Moderate,Trump,Very conservative,Some College,White,Same,"Yes, definitely",Cameron G.,38,WV-09,Oppose,Support,Support,Support,Support,Working-Class Independent
 18-29,Female,Other,Some College,30-60k,Republican,Moderate,Biden,Liberal,4-year,White,Same,"Yes, definitely",Logan G.,69,AK-03,Support,Support,Support,Support,Support,Libertarian Leaning
 45-64,Female,White,Some College,100k+,Democrat,Conservative,Trump,Moderate,4-year,White,Same,Already voted,Cameron T.,49,VT-18,Oppose,Support,Support,Oppose,Oppose,Left-Liberal
 45-64,Male,Hispanic,Some College,30-60k,Democrat,Very Liberal,Biden,Moderate,Some College,White,Decreased,Probably,Corey L.,39,FL-03,Support,Oppose,Support,Oppose,Oppose,Center-Left Moderate
@@ -71,7 +71,7 @@ age_group,gender,race,education,income,party_id,ideology,voted_2020,ideology_5pt
 65+,Female,White,HS Grad,100k+,Republican,Moderate,Trump,Moderate,HS Grad,White,Same,"Yes, definitely",Peyton G.,82,SD-01,Oppose,Support,Support,Support,Oppose,Libertarian Leaning
 45-64,Female,Hispanic,HS Grad,<30k,Republican,Liberal,Biden,Conservative,HS Grad,White,Same,Undecided,Taylor S.,39,VT-07,Support,Support,Support,Support,Oppose,Libertarian Leaning
 18-29,Male,Hispanic,No HS,100k+,Independent,Very Conservative,Trump,Very conservative,HS Grad,Other/Mixed,Decreased,"Yes, definitely",Avery M.,72,IN-16,Oppose,Support,Support,Oppose,Support,Working-Class Independent
-18-29,Female,Hispanic,HS Grad,<30k,Republican,Very Liberal,Biden,Conservative,HS Grad,White,Decreased,Plan to vote early,Riley M.,71,ME-08,Oppose,Support,Support,Oppose,Support,Left-Liberal
+18-29,Female,Hispanic,HS Grad,<30k,Republican,Liberal,Biden,Conservative,HS Grad,White,Decreased,Plan to vote early,Riley M.,71,ME-08,Oppose,Support,Support,Oppose,Support,Left-Liberal
 65+,Male,Asian,College Grad,100k+,Republican,Moderate,Biden,Liberal,No HS,White,Increased,"Yes, definitely",Jesse J.,55,IA-12,Support,Oppose,Support,Oppose,Oppose,Libertarian Leaning
 45-64,Female,White,HS Grad,60-100k,Independent,Moderate,Trump,Very liberal,Postgrad,White,Same,"Yes, definitely",Emerson R.,46,NY-14,Support,Support,Support,Oppose,Oppose,Working-Class Independent
 45-64,Male,White,HS Grad,100k+,Other,Very Conservative,Biden,Liberal,Some College,White,Increased,Plan to vote early,Reagan A.,29,IA-10,Oppose,Support,Support,Support,Support,Center-Left Moderate
@@ -81,9 +81,9 @@ age_group,gender,race,education,income,party_id,ideology,voted_2020,ideology_5pt
 18-29,Male,Hispanic,HS Grad,60-100k,Democrat,Conservative,Trump,Moderate,Postgrad,White,Same,"Yes, definitely",Shawn M.,23,ND-02,Support,Support,Support,Oppose,Support,Center-Left Moderate
 65+,Male,Hispanic,HS Grad,60-100k,Republican,Conservative,Trump,Moderate,4-year,Other/Mixed,Same,"Yes, definitely",Hunter J.,62,TX-17,Oppose,Support,Support,Support,Oppose,Libertarian Leaning
 45-64,Male,White,College Grad,60-100k,Other,Liberal,Trump,Conservative,HS Grad,White,Same,"Yes, definitely",Alex B.,27,AK-12,Support,Support,Oppose,Oppose,Oppose,Libertarian Leaning
-30-44,Female,White,College Grad,30-60k,Republican,Liberal,Biden,Very liberal,Some College,White,Same,Undecided,Skylar G.,61,MO-15,Support,Support,Support,Support,Oppose,Working-Class Independent
+30-44,Female,White,College Grad,30-60k,Democrat,Liberal,Biden,Very liberal,Some College,White,Same,Undecided,Skylar G.,61,MO-15,Support,Support,Support,Support,Oppose,Working-Class Independent
 18-29,Female,White,Postgrad,60-100k,Democrat,Conservative,Biden,Very liberal,Postgrad,Asian,Increased,"Yes, definitely",Cameron M.,18,DE-02,Support,Support,Support,Support,Oppose,Working-Class Independent
-30-44,Male,White,College Grad,60-100k,Independent,Very Conservative,Biden,Conservative,Postgrad,White,Same,Probably,Avery G.,30,MS-06,Support,Oppose,Support,Support,Support,Center-Left Moderate
+30-44,Male,White,College Grad,60-100k,Independent,Very Conservative,Trump,Conservative,Postgrad,White,Same,Probably,Avery G.,30,MS-06,Support,Oppose,Support,Support,Support,Center-Left Moderate
 30-44,Female,White,College Grad,100k+,Democrat,Moderate,Trump,Moderate,Some College,Asian,Same,"Yes, definitely",Corey A.,54,VA-11,Support,Support,Support,Oppose,Support,Populist Right
 45-64,Female,White,HS Grad,<30k,Democrat,Moderate,Trump,Conservative,2-year,White,Increased,Already voted,Riley G.,59,NC-16,Support,Support,Support,Support,Support,Left-Liberal
 45-64,Female,White,HS Grad,30-60k,Democrat,Liberal,Biden,Moderate,HS Grad,White,Same,"Yes, definitely",Taylor L.,69,TN-03,Oppose,Support,Support,Support,Support,Libertarian Leaning
