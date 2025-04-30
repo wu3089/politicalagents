@@ -1,8 +1,6 @@
 # Political Agents
 
-**Simulate voter reactions to your political messages using AI.**
-
-This simple Streamlit app allows you to input a political speech or tweet and see simulated reactions from synthetic voter profiles. 
+This is a simple Streamlit app that allows you to input a political speech or tweet and see simulated reactions from synthetic voter profiles. 
 
 ## Features
 
