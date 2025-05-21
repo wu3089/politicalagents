@@ -69,16 +69,16 @@ def _prepare_viz_data(df, grid_size=100):
 
     # Map raw party data to standardized display constants (e.g., "Democratic Party" -> DEMOCRAT)
     party_mapping = {
-        'Democratic Party': DEMOCRAT,
-        'Republican Party': REPUBLICAN,
-        # Other specific party names from data can be mapped here
+        'Democrat': DEMOCRAT,
+        'Republican': REPUBLICAN,
+        'Independent': INDEPENDENT,
     }
     df_copy['display_party'] = df_copy[party_col].map(party_mapping).fillna(UNKNOWN_PARTY)
 
-    # Consolidate less common or unmapped parties into INDEPENDENT for visualization simplicity
     main_parties_for_display = [DEMOCRAT, REPUBLICAN, INDEPENDENT]
+    # Only keep parties in our main list, otherwise mark as UNKNOWN_PARTY
     df_copy['display_party'] = df_copy['display_party'].apply(
-        lambda x: x if x in main_parties_for_display else INDEPENDENT
+        lambda x: x if x in main_parties_for_display else UNKNOWN_PARTY
     )
     counts = df_copy['display_party'].value_counts() # Count occurrences of each display party
     total_filtered = len(df_copy) # Total number of voters in the current filtered set
