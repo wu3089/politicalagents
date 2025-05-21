@@ -311,10 +311,6 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-# --- Title ---
-st.markdown('<div class="title">Political Agents</div>', unsafe_allow_html=True)
-st.markdown('<div class="subtitle">Fictional voter reactions based on survey profiles. Enter text below.</div>', unsafe_allow_html=True)
-
 # --- Application Title and Subtitle ---
 st.markdown('<div class="title">Political Agents</div>', unsafe_allow_html=True)
 st.markdown('<div class="subtitle">Fictional voter reactions based on survey profiles. Enter text below.</div>', unsafe_allow_html=True)
