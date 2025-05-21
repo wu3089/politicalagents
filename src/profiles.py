@@ -103,7 +103,7 @@ def generate_reaction(speech, voter_row):
             return "Error: Gemini API key not configured. Please check your .streamlit/secrets.toml file."
 
         # Initialize the model
-        model = genai.GenerativeModel('gemini-1.0-pro')
+        model = genai.GenerativeModel('gemini-2.0-flash')
         logger.info("Successfully initialized Gemini model")
 
         # Construct the prompt
